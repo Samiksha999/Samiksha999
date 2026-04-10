@@ -8,6 +8,10 @@ Published AI Researcher · ML Engineer · LLM Builder
 Think Line Magazine, Youth Impressions Edition (2026)  
 Exploring AI applications in governance & public accountability
 
+ Current Research: "Multi-Agent LLM Systems for Automated 
+Research Synthesis and Knowledge Extraction"  
+Lead Researcher @ Synthica (2026)
+
 ## 🛠️ What I Build
 - Multi-agent LLM systems (LangChain, RAG architecture)
 - Computer Vision pipelines (OpenCV, PyTorch, dlib)
