@@ -15,7 +15,8 @@ Published AI Researcher · ML Engineer · Backend & Distributed Systems
 ---
 
 ## 🛠️ What I Build
-- Distributed, concurrent backend systems (Flask, FastAPI, multi-threading, ThreadPoolExecutor, lock-based synchronization, custom caching)
+- Distributed, concurrent backend systems (Flask, FastAPI, ThreadPoolExecutor, lock-based synchronization)
+- REST APIs with ML integration (scikit-learn, FastAPI)
 - Multi-agent LLM systems (LangChain, RAG architecture)
 - Computer Vision pipelines (OpenCV, PyTorch, dlib)
 - Deep Learning models (TensorFlow, PyTorch)
@@ -31,6 +32,9 @@ A concurrent, distributed inference-serving system in Flask — custom thread-sa
 **[Gapminder Analysis API](https://github.com/Samiksha999/gapminder-analysis-)**  
 FastAPI REST API with concurrent data processing (ThreadPoolExecutor), ML-based life expectancy prediction (scikit-learn), Dockerized deployment, and automated pytest suite (3/3 passing).
 
+**[Multi-Agent Research Assistant](https://github.com/Samiksha999/Multi-Agent-Research-Assitant)**  
+Multi-agent AI system for automated research workflows using LangChain and RAG architecture.
+
 ---
 
 ## 🚀 Current Interests
@@ -39,13 +43,15 @@ Large Language Models · Retrieval-Augmented Generation · AI Agents · Informat
 ---
 
 ## 🔧 Tech Stack
-**Languages:** Python, C++, JavaScript  
-**Frameworks:** FastAPI, Flask, LangChain, PyTorch, TensorFlow  
+**Languages:** Python, C++  
+**Frameworks:** FastAPI, Flask, LangChain, PyTorch, TensorFlow, OpenCV  
 **Systems:** Docker, multi-threading, concurrent.futures, distributed systems  
-**ML/AI:** scikit-learn, OpenCV, dlib, RAG, LLMs  
+**ML/AI:** scikit-learn, dlib, RAG, LLMs, Computer Vision  
 
 ---
 
 ## 📫 Connect
-- 📧 [samiksha@email.com](mailto:samiksha@email.com)
+- 📧 [samilkshaaaaa6@gmail.com](mailto:samilkshaaaaa6@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/samiksha-kamble-5a00b6258/)
+
+
