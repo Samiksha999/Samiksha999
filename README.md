@@ -54,7 +54,7 @@ Large Language Models · AI Governance · Retrieval-Augmented Generation · AI A
 
 ## 🔧 Tech Stack
 
-**Languages:** Python, C++, JavaScript, Go  
+**Languages:** Python  
 **Frameworks:** FastAPI, Flask, LangChain, PyTorch, TensorFlow, OpenCV, spaCy  
 **Systems:** Docker, multi-threading, concurrent.futures, distributed systems  
 **ML/AI:** scikit-learn, RAG, LLMs, Computer Vision, NLP pipelines
