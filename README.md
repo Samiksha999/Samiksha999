@@ -1,30 +1,33 @@
 # Hi, I'm Samiksha Kamble 👋
+
 **B.Tech Data Science @ SNDT University Mumbai**  
 Published AI Researcher · ML Engineer · Backend & Distributed Systems
 
 ---
 
-## 🔬 Research
-- 📄 **Published:** "From Election Promises to Predictive Governance"  
-  Think Line Magazine, Youth Impressions Edition (2026)  
-  Exploring AI applications in governance & public accountability
+## 🔬 Research & Publications
 
-- **Current Research:** "Multi-Agent LLM Systems for Automated Research Synthesis and Knowledge Extraction"  
-  Lead Researcher @ Synthica (Jan–Jul 2026)
+- 📄 **Under Review:** "A Responsible Multi-Agent LLM Framework for Early Detection and Intervention of Domestic Violence and Online Abuse" — IDEA 2026, Jio Institute (Springer LNNS, Scopus-indexed), Paper ID 233
+- 📄 **Published:** "From Election Promises to Predictive Governance" — Think Line Magazine, Youth Impressions Edition (2026)
+- 🔍 **Peer Reviewer:** IDEA 2026, Jio Institute
 
 ---
 
 ## 🛠️ What I Build
+
 - Distributed, concurrent backend systems (Flask, FastAPI, ThreadPoolExecutor, lock-based synchronization)
 - REST APIs with ML integration (scikit-learn, FastAPI)
 - Multi-agent LLM systems (LangChain, RAG architecture)
+- AI governance tooling (policy analysis, obligation extraction, risk classification)
 - Computer Vision pipelines (OpenCV, PyTorch, dlib)
-- Deep Learning models (TensorFlow, PyTorch)
 - End-to-end ML pipelines with full reproducibility
 
 ---
 
 ## 📌 Featured Projects
+
+**[PolicyLens](https://github.com/Samiksha999/policylens)**  
+AI-powered policy document analyser built with FastAPI, spaCy, and pdfplumber. Tested on the EU AI Act — extracts 820 obligations and 625 risk clauses from governance PDFs.
 
 **[Distributed AI Inference Platform](https://github.com/Samiksha999/inference-platform)**  
 A concurrent, distributed inference-serving system in Flask — custom thread-safe LRU cache, lock-based synchronization across worker nodes, 94% latency reduction on cache hits.
@@ -37,16 +40,24 @@ Multi-agent AI system for automated research workflows using LangChain and RAG a
 
 ---
 
+## 🏆 Recognitions
+
+- Virtual Delegate, World Bank Youth Summit 2026
+
+---
+
 ## 🚀 Current Interests
-Large Language Models · Retrieval-Augmented Generation · AI Agents · Information Retrieval · Computer Vision · Distributed Systems
+
+Large Language Models · AI Governance · Retrieval-Augmented Generation · AI Agents · Distributed Systems · Computer Vision
 
 ---
 
 ## 🔧 Tech Stack
-**Languages:** Python, C++  
-**Frameworks:** FastAPI, Flask, LangChain, PyTorch, TensorFlow, OpenCV  
+
+**Languages:** Python, C++, JavaScript, Go  
+**Frameworks:** FastAPI, Flask, LangChain, PyTorch, TensorFlow, OpenCV, spaCy  
 **Systems:** Docker, multi-threading, concurrent.futures, distributed systems  
-**ML/AI:** scikit-learn, dlib, RAG, LLMs, Computer Vision  
+**ML/AI:** scikit-learn, RAG, LLMs, Computer Vision, NLP pipelines
 
 ---
 
