@@ -1,68 +1,38 @@
 # Hi, I'm Samiksha Kamble 👋
 
-**B.Tech Data Science @ SNDT University Mumbai**  
-Published AI Researcher · ML Engineer · Backend & Distributed Systems
+**B.Tech Data Science @ SNDT Women's University, Mumbai**  
+*Machine Learning & AI Safety Researcher | Distributed Inference Engineering | Multi-Agent Representation Modeling*
 
 ---
 
 ## 🔬 Research & Publications
 
-- 📄 **Under Review:** "A Responsible Multi-Agent LLM Framework for Early Detection and Intervention of Domestic Violence and Online Abuse" — IDEA 2026, Jio Institute (Springer LNNS, Scopus-indexed), Paper ID 233
-- 📄 **Published:** "From Election Promises to Predictive Governance" — Think Line Magazine, Youth Impressions Edition (2026)
-- 🔍 **Peer Reviewer:** IDEA 2026, Jio Institute
+* **Research Work:** Focuses on multi-agent LLM frameworks for domestic violence and online abuse detection (IDEA 2026 paper under review) and predictive governance publications. Serves as a peer reviewer for IDEA 2026.
 
 ---
 
-## 🛠️ What I Build
+## 🧪 Active Alignment & Interpretability Focus
 
-- Distributed, concurrent backend systems (Flask, FastAPI, ThreadPoolExecutor, lock-based synchronization)
-- REST APIs with ML integration (scikit-learn, FastAPI)
-- Multi-agent LLM systems (LangChain, RAG architecture)
-- AI governance tooling (policy analysis, obligation extraction, risk classification)
-- Computer Vision pipelines (OpenCV, PyTorch, dlib)
-- End-to-end ML pipelines with full reproducibility
+* **Core Areas:** Engaged in mechanistic probing pipelines using PyTorch, multi-agent evaluation for alignment traps, and adversarial interventions to mitigate deceptive optimization.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Featured Systems & Projects
 
-**[PolicyLens](https://github.com/Samiksha999/policylens)**  
-AI-powered policy document analyser built with FastAPI, spaCy, and pdfplumber. Tested on the EU AI Act — extracts 820 obligations and 625 risk clauses from governance PDFs.
-
-**[Distributed AI Inference Platform](https://github.com/Samiksha999/inference-platform)**  
-A concurrent, distributed inference-serving system in Flask — custom thread-safe LRU cache, lock-based synchronization across worker nodes, 94% latency reduction on cache hits.
-
-**[Gapminder Analysis API](https://github.com/Samiksha999/gapminder-analysis-)**  
-FastAPI REST API with concurrent data processing (ThreadPoolExecutor), ML-based life expectancy prediction (scikit-learn), Dockerized deployment, and automated pytest suite (3/3 passing).
-
-**[Multi-Agent Research Assistant](https://github.com/Samiksha999/Multi-Agent-Research-Assitant)**  
-Multi-agent AI system for automated research workflows using LangChain and RAG architecture.
+* **inference-platform:** Distributed AI inference-serving ecosystem in Flask achieving a 94% latency reduction through lock-based synchronization and LRU caching.
+* **Multi-Agent-Research-Assistant:** Automated multi-agent framework utilizing LangChain and RAG to evaluate coordination and communication stability.
+* **policylens:** AI-powered document analyzer built with FastAPI, spaCy, and pdfplumber, tested on the EU AI Act.
+* **gapminder-analysis:** FastAPI REST API with multi-threaded data processing, Scikit-Learn predictive modeling, Docker, and GitHub Actions CI/CD.
 
 ---
 
-## 🏆 Recognitions
+## 🔧 Technical Stack
 
-- Virtual Delegate, World Bank Youth Summit 2026
-
----
-
-## 🚀 Current Interests
-
-Large Language Models · AI Governance · Retrieval-Augmented Generation · AI Agents · Distributed Systems · Computer Vision
+* **Languages & Tools:** Python, C++, SQL, PyTorch, Hugging Face, TransformerLens, LangChain, FastAPI, Flask, Docker, and Git.
 
 ---
 
-## 🔧 Tech Stack
+## 🏆 Recognitions & Contact
 
-**Languages:** Python  
-**Frameworks:** FastAPI, Flask, LangChain, PyTorch, TensorFlow, OpenCV, spaCy  
-**Systems:** Docker, multi-threading, concurrent.futures, distributed systems  
-**ML/AI:** scikit-learn, RAG, LLMs, Computer Vision, NLP pipelines
-
----
-
-## 📫 Connect
-- 📧 [samilkshaaaaa6@gmail.com](mailto:samilkshaaaaa6@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/samiksha-kamble-5a00b6258/)
-
-
+* **Recognition:** Virtual Delegate, World Bank Youth Summit (2026).
+* **Connect:** Reach out via [samikshaaaaa6@gmail.com](mailto:samikshaaaaa6@gmail.com), [LinkedIn](https://linkedin.com), or [GitHub](https://github.com).
