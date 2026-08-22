@@ -5,9 +5,18 @@
 
 ---
 
-## 🔬 Research & Publications
+## 🏗️ Highlighted Buildathon Production System
 
-* **Research Work:** Focuses on multi-agent LLM frameworks for domestic violence and online abuse detection (IDEA 2026 paper under review) and predictive governance publications. Serves as a peer reviewer for IDEA 2026.
+* **[FinGuard-Agent](https://github.com):** High-throughput, asynchronous multi-agent payment fraud risk engine built for Razorpay Track 2. 
+  * **Asynchronous Webhook Ingestion:** Decouples API ingestion from heavy model computation using FastAPI `BackgroundTasks`, reducing initial gateway response times to **<10ms**.
+  * **Deterministic Local Circuit Breaker:** Implements a strict 2.5-second `asyncio` execution timeout barrier that automatically activates a local, in-memory mathematical fallback matrix to guarantee **100% gateway infrastructure uptime** during third-party cloud outages.
+  * **Honest Metrics Tracking:** Evaluated against a held-out validation dataset achieving **100% Recall** and **80% Precision**, complete with simulated operational false-positive investigation cost auditing logic.
+
+---
+
+## 🔬 Research Work
+
+* **Research Focus:** Investigating multi-agent LLM frameworks for online abuse detection and predictive governance applications. Experienced in analyzing coordination dynamics and communication stability in distributed agent networks.
 
 ---
 
@@ -35,5 +44,5 @@
 ## 🏆 Recognitions & Contact
 
 * **Recognition:** Virtual Delegate, World Bank Youth Summit (2026).
-*  **Google Student Ambassador2026**
+* **Google Student Ambassador 2026**
 * **Connect:** Reach out via [samikshaaaaa6@gmail.com](mailto:samikshaaaaa6@gmail.com), [LinkedIn](https://linkedin.com), or [GitHub](https://github.com).
